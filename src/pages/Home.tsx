@@ -1,7 +1,11 @@
 
 const Home = () => {
   return (
-    <div>Home Page</div>
+    <div>
+      <h1>
+        Jeshua Matthew Hutahaean  
+      </h1>
+    </div>
   )
 }
 
